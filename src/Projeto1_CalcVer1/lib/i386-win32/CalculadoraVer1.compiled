@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1411536590"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -WG -l -vewnhibq &quot;-FiC:\Users\amand\Desktop\A\IFMT\2022.1 - 3º Semestre\5 - Programação Desktop - Custódio\Projeto1_CalcVer1\lib\i386-win32&quot; -FuC:\lazarus\lcl\units\i386-win32\win32 -FuC:\lazarus\lcl\units\i386-win32 -FuC:\lazarus\components\freetype\lib\i386-win32 -FuC:\lazarus\components\lazutils\lib\i386-win32 -FuC:\lazarus\packager\units\i386-win32 &quot;-FuC:\Users\amand\Desktop\A\IFMT\2022.1 - 3º Semestre\5 - Programação Desktop - Custódio\Projeto1_CalcVer1\&quot; &quot;-FUC:\Users\amand\Desktop\A\IFMT\2022.1 - 3º Semestre\5 - Programação Desktop - Custódio\Projeto1_CalcVer1\lib\i386-win32\&quot; &quot;-FEC:\Users\amand\Desktop\A\IFMT\2022.1 - 3º Semestre\5 - Programação Desktop - Custódio\Projeto1_CalcVer1\&quot; &quot;-oC:\Users\amand\Desktop\A\IFMT\2022.1 - 3º Semestre\5 - Programação Desktop - Custódio\Projeto1_CalcVer1\CalculadoraVer1.exe&quot; -dLCL -dLCLwin32 CalculadoraVer1.lpr"/>
+</CONFIG>
